@@ -7,6 +7,10 @@
     "react-dom": "^15.6.1",
     "react-scripts": "1.0.10"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tajoarl/byeolzzi_proj.git"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
